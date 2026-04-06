@@ -1,0 +1,17 @@
+{
+    "name": "assim/api",
+    "autoload": {
+        "psr-4": {
+            "Assim\\Api\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "chat"
+        }
+    ],
+    "require": {
+        "cboden/ratchet": "^0.4.4",
+        "firebase/php-jwt": "^7.0"
+    }
+}

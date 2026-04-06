@@ -1,0 +1,13 @@
+# React
+node_modules/
+dist/
+.env
+
+# PHP / Composer
+vendor/
+composer.lock (اختياري)
+.phpunit.result.cache
+
+# IDEs
+.vscode/
+.idea/
